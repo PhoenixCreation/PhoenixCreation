@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently Student at [L. D. College of Engineering](https://ldce.ac.in)
 
-- 🌱 I’m currently learning **Godot game engine, Machine Learning in JS**
+- 🌱 I’m currently learning **React-native, Machine Learning in JS**
 
 - 👯 I’m looking to collaborate on **Game developement**
 
 - 👨‍💻 All of my projects are available at [https://phoenixcreation2.herokuapp.com](https://phoenixcreation2.herokuapp.com)
 
-- 💬 Ask me about **NodeJS, ExpressJS, Django, Git, Java,WebDevelopement**
+- 💬 Ask me about **NodeJS, ExpressJS, Django, React, Git, Java,WebDevelopement, Godot game engine**
 
 - 📫 How to reach me **phoenixcreationweb@gmail.com**
 
