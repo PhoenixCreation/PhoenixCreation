@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently Student at [L. D. College of Engineering](https://ldce.ac.in)
 
-- 🌱 I’m currently learning **React-native, Machine Learning in JS**
+- 🌱 I’m currently learning **React-native, 3D game development**
 
-- 👯 I’m looking to collaborate on **Game developement**
+- 👯 I’m looking to collaborate on **Game developement, web technologies**
 
-- 👨‍💻 All of my projects are available at [https://phoenixcreation2.herokuapp.com](https://phoenixcreation2.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://phoenixcreation.netlify.app](https://phoenixcreation.netlify.app)
 
-- 💬 Ask me about **NodeJS, ExpressJS, Django, React, Git, Java,WebDevelopement, Godot game engine**
+- 💬 Ask me about **NodeJS, ExpressJS, Python, Django, React, React-Native, Git, Java, WebDevelopement, Godot game engine**
 
 - 📫 How to reach me **phoenixcreationweb@gmail.com**
 
-- ⚡ Fun fact **I am very classical creative person**
+- ⚡ Fun fact **I scored 97% in introvert category in personality test**
 
 #
 
@@ -28,3 +28,5 @@
 <a href="https://facebook.com/phoenixcreationweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="patel.het.108" height="30" width="30" /></a>
 <a href="https://instagram.com/phoenixcreationweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="het_patel_285" height="30" width="30" /></a>
 </p>
+
+#
