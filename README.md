@@ -20,7 +20,7 @@
 #
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixcreation&show_icons=true&theme=vision-friendly-dark" alt="phoenixcreation" /></p>
-<img src="https://github-streak.herokuapp.com/PhoenixCreation?theme=highcontrast" alt="Github Streak of PhoenixCreation" />
+<img src="https://github-streak.herokuapp.com/PhoenixCreation?theme=buefy" alt="Github Streak of PhoenixCreation" />
 
 #
 
