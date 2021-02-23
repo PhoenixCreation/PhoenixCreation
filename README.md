@@ -19,8 +19,9 @@
 
 #
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixcreation&show_icons=true&theme=vision-friendly-dark" alt="phoenixcreation" /></p>
-<img src="https://github-streak.herokuapp.com/phoenixcreation?theme=highcontrast" alt="Github Streak of PhoenixCreation" />
+<img src="https://github-streak.herokuapp.com/phoenixcreation?theme=highcontrast" alt="" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixcreation&show_icons=true&theme=vision-friendly-dark" alt="phoenixcreation" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixcreation&show_icons=true&theme=vision-friendly-dark" />
 
 #
 
