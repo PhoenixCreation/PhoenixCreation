@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Student at [L. D. College of Engineering](https://ldce.ac.in)
 
-- 🌱 I’m currently learning **React-native, 3D game development**
+- 🌱 I’m currently learning **React-native, App-designing**
 
 - 👯 I’m looking to collaborate on **Game developement, web technologies**
 
